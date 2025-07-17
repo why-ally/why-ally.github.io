@@ -1,5 +1,5 @@
 //35.34183° N, 80.83392° W
-var coordinates = [35.34183, -80.83392}];
+var coordinates = [35.34183, -80.83392];
 
 let map = L.map("map", {
   center: coordinates,
