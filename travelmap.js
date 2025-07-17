@@ -3,7 +3,7 @@ var coordinates = [35.34183, -80.83392];
 
 let map = L.map("map", {
   center: coordinates,
-  zoom:10
+  zoom: 10
 });
 
 L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
